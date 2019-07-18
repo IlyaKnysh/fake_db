@@ -1,4 +1,5 @@
 {
+  "db_info": {"db_name": "fake_db", "author": "Ilya Knysh QA"},
   "app_ids": [
     {
       "id": "PO2JO53kA"
