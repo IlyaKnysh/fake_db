@@ -1,0 +1,54 @@
+{
+  "app_ids": [
+    {
+      "id": "PO2JO53kA"
+    },
+    {
+      "id": "KS2LS2jsbw"
+    },
+    {
+      "id": "dsg2134Ila"
+    }
+  ],
+  "ad_zones": [
+    {
+      "id": 52736,
+      "zone": null,
+      "type": "native"
+    },
+    {
+      "id": 52738,
+      "zone": null,
+      "type": "interstitial_rewarded_video"
+    },
+    {
+      "id": 263593,
+      "zone": null,
+      "type": "interstitial_static"
+    }
+  ],
+  "networks": [
+    {
+      "name": "megaapp",
+      "types": [
+        "banner",
+        "Interstitial"
+      ]
+    },
+    {
+      "name": "AdHero",
+      "types": [
+        "Interstitial",
+        "Rewarded"
+      ]
+    },
+    {
+      "name": "AddLovin",
+      "types": [
+        "Native",
+        "Rewarded",
+        "Banner"
+      ]
+    }
+  ]
+}
